@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+## I am:
+
+## A student at SCGSSM c/o 2026
+## Working on computational mathematics
 
 <!--
 **the-mac08/the-mac08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
